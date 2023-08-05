@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aneka Makanan Indonesia</string>
+    <string name="about_page">about_page</string>
+    <string name="back">Back</string>
+    <string name="about">About</string>
+    <string name="dwitio_ahmad_pranoto">Dwitio Ahmad Pranoto</string>
+    <string name="tiothebook_gmail_com">tiothebook@gmail.com</string>
+    <string name="langkah">Langkah</string>
+    <string name="bahan_bahan">Bahan-bahan</string>
+</resources>
